@@ -1458,9 +1458,6 @@ namespace UVMRADIO.Droid
 			// aapt resource value: 0x7f0d001e
 			public const int highlighted_text_material_light = 2131558430;
 			
-			// aapt resource value: 0x7f0d004b
-			public const int launcher_background = 2131558475;
-			
 			// aapt resource value: 0x7f0d001f
 			public const int material_blue_grey_800 = 2131558431;
 			
@@ -1571,6 +1568,9 @@ namespace UVMRADIO.Droid
 			
 			// aapt resource value: 0x7f0d003e
 			public const int tooltip_background_light = 2131558462;
+			
+			// aapt resource value: 0x7f0d004b
+			public const int uvm = 2131558475;
 			
 			static Color()
 			{
@@ -3947,7 +3947,7 @@ namespace UVMRADIO.Droid
 			public const int icon_round = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int launcher_foreground = 2130903042;
+			public const int uvm = 2130903042;
 			
 			static Mipmap()
 			{
